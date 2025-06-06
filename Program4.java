@@ -3,5 +3,8 @@ class Program4{
         System.out.println("Hello");
         System.out.println("Hello World");
         System.out.println("Hello World2");
+        System.out.println("Hello World3");
+        System.out.println("Hello World4");
+        System.out.println("Hello World5");
     }
 }
